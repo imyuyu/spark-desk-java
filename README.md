@@ -2,6 +2,8 @@
 
 本工程完全按照`SparkDesk(科大讯飞星火大模型)`[Web文档](https://www.xfyun.cn/doc/spark/Web.html#_1-%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E)实现，使用`OkHttp`发起`WebSocket`请求调用。
 
+当前最新版本: 1.0.0
+
 ## Usage
 
 ### Spring Boot 2.X
@@ -10,7 +12,7 @@
 <dependency>
     <groupId>com.gihub.imyuyu</groupId>
     <artifactId>spark-desk-spring-boot-starter</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>${最新版本}</version>
 </dependency>
 ```
 
@@ -48,7 +50,7 @@ public class SparkController {
 <dependency>
     <groupId>com.gihub.imyuyu</groupId>
     <artifactId>spark-desk-java-core</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>${最新版本}</version>
 </dependency>
 ```
 
