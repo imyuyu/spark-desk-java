@@ -1,0 +1,6 @@
+spark:
+  desk:
+    app-id: ${spark-desk.appid}
+    api-key: ${spark-desk.appkey}
+    api-secret: ${spark-desk.apisecret}
+    version: version_3_5
