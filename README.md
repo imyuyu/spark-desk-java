@@ -10,7 +10,7 @@
 
 ```
 <dependency>
-    <groupId>com.gihub.imyuyu</groupId>
+    <groupId>io.github.imyuyu</groupId>
     <artifactId>spark-desk-spring-boot-starter</artifactId>
     <version>${最新版本}</version>
 </dependency>
@@ -48,7 +48,7 @@ public class SparkController {
 
 ```xml
 <dependency>
-    <groupId>com.gihub.imyuyu</groupId>
+    <groupId>io.github.imyuyu</groupId>
     <artifactId>spark-desk-java-core</artifactId>
     <version>${最新版本}</version>
 </dependency>
